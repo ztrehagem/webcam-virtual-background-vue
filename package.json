@@ -6,6 +6,8 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@mediapipe/camera_utils": "^0.3.1620247984",
+    "@mediapipe/selfie_segmentation": "^0.1.1622680987",
     "vue": "^3.0.5"
   },
   "devDependencies": {
